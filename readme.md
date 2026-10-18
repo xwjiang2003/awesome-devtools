@@ -162,4 +162,4 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ---
 
 PRs welcome!
-
+- [devtools.help](https://devtools.help) — Free online developer toolbox: JSON/YAML formatter & validator, regex tester, hash/HMAC & JWT tools, Base64, timestamp/UUID generator, QR code and more. Runs entirely in the browser, no signup required.
